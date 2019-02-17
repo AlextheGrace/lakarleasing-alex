@@ -1,3 +1,8 @@
+#lakarleasing
+##by AlextheGrace
 
-go to root directory 
+got root directory and 
+
+```sh
 $ npm start
+```
